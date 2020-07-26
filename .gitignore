@@ -1,0 +1,6 @@
+[Dd]ebug/
+[Bb]uild/
+*.exe
+*.dll
+*.lib
+*main.cpp*
